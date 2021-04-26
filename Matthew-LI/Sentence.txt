@@ -1,3 +1,7 @@
 +    2021.4.25
 
     A population monotonic allocation scheme (PMAS) gives every player an incentive to expand his coalition to an ever larger one.
+
++   2021.5.2
+
+    Truck platooning enables a group of trucks to move close together, which helps reduce truck fuel use and increase effective road capacity.
