@@ -10,7 +10,7 @@ $l_{i,S} \geq l_{i,T}$ for all $i \in S$ and $i \in T$ ,where $S \subseteq T \su
 
 **2021.5.2**
 
-A vector $\alpha\in**R**^{A}$ is in the
+A vector $\alpha \in **R**^A$ is in the
 
  $\gamma$ -approximate core (or $\gamma$ -core, for short) 
 
