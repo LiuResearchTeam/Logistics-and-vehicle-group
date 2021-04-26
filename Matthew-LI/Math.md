@@ -8,9 +8,9 @@ and
 
 $l_{i,S} \geq l_{i,T}$ for all $i \in S$ and $i \in T$ ,where $S \subseteq T \subseteq N$.
 
-*2021.5.2*
+**2021.5.2**
 
-A vector $\alpha \in **R**^{A}$ is in the $\gamma$ -approximate core (or $\gamma$ -core, for short) 
+A vector $$\alpha \in **R**^{A}$$ is in the $\gamma$ -approximate core (or $\gamma$ -core, for short) 
 
 of the game $(A,c)$ if it satisfies the following two conditions:
 
